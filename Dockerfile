@@ -1,2 +1,2 @@
 # renovate pypi:requests
-ARG PY3_REQUESTS_VERSION=2.31.0
+ARG PY3_REQUESTS_VERSION=2.32.3
